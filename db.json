@@ -1,0 +1,19 @@
+{
+  "blogposts": [
+    {
+      "title": "TEST POST",
+      "content": "TEST CONTENT",
+      "id": 1
+    },
+    {
+      "title": "Fjch",
+      "content": "Sh xhd",
+      "id": 2
+    },
+    {
+      "title": "New Note",
+      "content": "I need water -> done",
+      "id": 5
+    }
+  ]
+}
